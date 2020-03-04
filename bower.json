@@ -1,0 +1,14 @@
+{
+  "name": "troopjs-ef",
+  "version": "2.2.2",
+  "description": "TroopJS Englishtown specific modules.",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {
+    "troopjs-browser": ">=2.1.0",
+    "troopjs-core": ">=2.1.0",
+    "troopjs-utils": ">=2.0.0"
+  }
+}
